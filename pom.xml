@@ -103,10 +103,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	      <id>cukes</id>
 	      <url>http://cukes.info/maven</url>
 	    </repository>
-	    <repository>
-	      <id>openqa</id>
-	      <url>http://nexus.openqa.org/content/repositories/releases</url>
-	    </repository>
 	</repositories>
 
 
