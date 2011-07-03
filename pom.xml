@@ -31,8 +31,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         </dependency>
      <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
-        <artifactId>selenium</artifactId>
-        <version>2.0a4</version>
+        <artifactId>selenium-java</artifactId>
+        <version>2.0rc3</version>
     </dependency>
     </dependencies>
 
@@ -101,6 +101,10 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	<repositories>
 	    <repository>
 	      <id>cukes</id>
+	      <url>http://cukes.info/maven</url>
+	    </repository>
+	    <repository>
+	      <id>repo1</id>
 	      <url>http://cukes.info/maven</url>
 	    </repository>
 	</repositories>
